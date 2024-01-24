@@ -2,7 +2,7 @@
 """
 Created on Sun May 21 20:26:30 2017
 
-@author: eddy
+@author: Kem Attang
 """
 
 
